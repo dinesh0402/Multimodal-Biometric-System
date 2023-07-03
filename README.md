@@ -1,4 +1,4 @@
-# Multimodal-Biometric-System
+# 👂🚶‍♀️ Multimodal-Biometric-System 🚶‍♂️👂
 <img src="images/BIOMETRICS FINAL REPORT_page-0001.jpg">
 <img src="images/BIOMETRICS FINAL REPORT_page-0002.jpg">
 <img src="images/BIOMETRICS FINAL REPORT_page-0003.jpg">
